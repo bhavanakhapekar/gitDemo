@@ -7,7 +7,7 @@ public class StringEx {
 		String s2=new String("AAA");
 		String s4=new String("AAA");
 		String s6="ABC";
-		String s5="BBB";
+		String s5="CCCS";
 		
 		s1=s1.concat("DEF");
 		System.out.println(s1);
